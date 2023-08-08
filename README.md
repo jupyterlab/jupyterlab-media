@@ -1,3 +1,5 @@
+**This repository has been archived as deprecated.**
+
 # JupyterLab Media
 
 This repository stores videos that demonstrate usage of JupyterLab,
